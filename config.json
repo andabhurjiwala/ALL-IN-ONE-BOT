@@ -1,8 +1,8 @@
 {
-    "token": "d63ab8f17338b4b5e792fa85e925c54890a328fbb752c3aedc230f500bc4f98a",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://UTTU:UTTU@alucardaio.tt2k5jo.mongodb.net/?retryWrites=true&w=majority&appName=AlucardAIO",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
